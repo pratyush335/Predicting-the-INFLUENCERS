@@ -22,4 +22,4 @@ Links attached in the description
 Brands can leverage predictive and network analytics to identify top influencers on several social media platforms like instagram or twitter. By accurately predicting influential individuals and quantifying their potential financial value, companies can strategically target marketing campaigns, form partnerships, and optimize resource allocation for maximum impact. This enables businesses to enhance brand visibility, drive engagement, and ultimately increase sales and brand loyalty in the digital landscape.
 
 ### Network Visualization
-<img src='https://github.com/pratyush335/Predicting-the-INFLUENCERS/blob/main/Data/Network.jpg>
+<img src='https://github.com/pratyush335/Predicting-the-INFLUENCERS/blob/main/Data/Network.jpg'>
