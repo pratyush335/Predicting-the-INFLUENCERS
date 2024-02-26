@@ -11,12 +11,12 @@ We will utilize this twitter [dataset](https://www.kaggle.com/c/predict-who-is-m
 ### Part-2
 Here, we will utilize another tweets [database]() to identify the top 20 influencers by calculating the influence scores using the weights predicted in the first part.
 
-Data Sources
+### Data Sources
 Links attached in the description
 
-Tools Used
+### Tools Used
 Python - Logistic Regression, Bagging, Random Forest
 Network Analytics - Networkx
-
-Business Use Case
+***
+### Business Use Case
 Brands can leverage predictive and network analytics to identify top influencers on several social media platforms like instagram or twitter. By accurately predicting influential individuals and quantifying their potential financial value, companies can strategically target marketing campaigns, form partnerships, and optimize resource allocation for maximum impact. This enables businesses to enhance brand visibility, drive engagement, and ultimately increase sales and brand loyalty in the digital landscape.
